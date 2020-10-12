@@ -1,0 +1,17 @@
+Ecrire une application Guess qui permet de deviner la lettre que vous avez en tête
+Indications :
+Les lettres sont entre A et Z
+Ces caractères ne seront pas acceptés :
+(ch == '\n' | ch == '\r');
+Predicted Output:
+I'm thinking of a letter between A and Z.
+Can you guess it: A
+...Sorry, you're too low
+Try again!
+I'm thinking of a letter between A and Z.
+Can you guess it: Z
+...Sorry, you're too high
+Try again!
+I'm thinking of a letter between A and Z.
+Can you guess it: K
+** Right **
