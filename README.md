@@ -1,1 +1,1 @@
-Exercices des 2 premières semaines de formation: les fondamentaux JAVA
+Exercices d'introduction aux fondamentaux JAVA
